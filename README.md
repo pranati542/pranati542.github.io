@@ -1,4 +1,4 @@
-# Hello, I'm  Pranati
+# Pranati Pragya
 
 ## Data Analyst | Data Science Enthusiast
 
@@ -15,7 +15,9 @@ I transform raw data into actionable insights by day and explore the frontiers o
 - **Languages:** Python, SQL
 - **Tools:** Jupyter, Git, Power BI
 - **Databases:** MySQL
-
+### My Projects
+- [Dashboard RCA]([https://github.com/pranati542/RCA_Dashboard])
+  
 ### Always Learning
 Constantly upskilling in new data technologies and methodologies to bridge the gap between traditional analytics and advanced data science.
 
