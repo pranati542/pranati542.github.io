@@ -1,4 +1,4 @@
-# Pranati Pragya
+# Hello, I am Pranati Pragya
 
 ## Data Analyst | Data Science Enthusiast
 
