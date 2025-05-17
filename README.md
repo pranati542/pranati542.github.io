@@ -1,5 +1,3 @@
-# Hello, I am Pranati Pragya
-
 ## Data Analyst | Data Science Enthusiast
 
 I transform raw data into actionable insights by day and explore the frontiers of data science by night.
